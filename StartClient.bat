@@ -1,0 +1,1 @@
+java -jar CLIENT/dist/CLIENT.jar
